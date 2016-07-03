@@ -321,6 +321,7 @@
                 item.price = nextFloatValue;
                 CGContextMoveToPoint(context, startWidth, nextHeight);
                 
+                //
                 continue;
             }
             
